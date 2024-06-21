@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550267329312",
+    "project_id": "x-o-online-9a5d1",
+    "storage_bucket": "x-o-online-9a5d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550267329312:android:af1eaaa5a5500d74071545",
+        "android_client_info": {
+          "package_name": "ir.shahmirani.x_o"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADRNPHB_qZHDvtvZ44bTyLV4HicgYCQr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
